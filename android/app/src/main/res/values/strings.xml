@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoArq</string>
+    <string name="facebook_app_id">331438694695314</string> <string name="fb_login_protocol_scheme">fb331438694695314</string>
+</resources>
